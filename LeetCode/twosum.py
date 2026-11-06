@@ -1,3 +1,5 @@
+#O(n) time complexity, o(n) space complexity, uses a dictionary to find complement and return sol
+
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
 
